@@ -56,5 +56,3 @@ Contributions to pipePYRUS are welcome! Please read our contributing guidelines 
 ## License
 pipePYRUS is released under the [MIT License](LICENSE).
 ```
-
-Ce README fournit une vue d'ensemble du projet, un schéma de workflow facile à comprendre grâce à Mermaid, une description des endpoints, et des sections pour démarrer, contribuer, et la licence. Vous pouvez l'adapter en fonction des spécificités et des besoins supplémentaires de votre projet.

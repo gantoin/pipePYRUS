@@ -55,4 +55,3 @@ Contributions to pipePYRUS are welcome! Please read our contributing guidelines 
 
 ## License
 pipePYRUS is released under the [MIT License](LICENSE).
-```

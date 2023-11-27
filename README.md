@@ -1,5 +1,7 @@
 # pipePYRUS
 
+<img src="logo.png" alt="pipePYRUS Logo" width="200"/>
+
 ## Overview
 pipePYRUS is a document digitization and transcription tool designed to convert scanned book pages into editable, digital text. This tool streamlines the process of turning physical documents into accessible and modifiable digital formats.
 
